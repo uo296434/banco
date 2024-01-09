@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/banco/static/css/main.7b531263.css",
+    "main.js": "/banco/static/js/main.4d82f116.js",
+    "index.html": "/banco/index.html",
+    "main.7b531263.css.map": "/banco/static/css/main.7b531263.css.map",
+    "main.4d82f116.js.map": "/banco/static/js/main.4d82f116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b531263.css",
+    "static/js/main.4d82f116.js"
+  ]
+}
